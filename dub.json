@@ -1,0 +1,9 @@
+{
+	"name": "dlogger",
+	"authors": [
+		"cvsae"
+	],
+	"description": "A simple logger, to log messages.",
+	"copyright": "Copyright © 2018, cvsae",
+	"license": "MIT"
+}
